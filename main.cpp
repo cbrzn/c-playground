@@ -2,7 +2,7 @@
 #include <vector>
 
 extern "C" {
-    #include "lib/rust-client/packages/ffi-swift/include/headers.h"
+    #include "lib/headers.h"
 }
 
 
